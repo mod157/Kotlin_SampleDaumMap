@@ -26,7 +26,7 @@
 
         <!-- meta-data Application 필드 안에서만 동작 -->
         <meta-data android:name="com.kakao.sdk.AppKey"
-            android:value="34fbb54a2aadc1af6d78de10ab8c6700"/>
+            android:value="Native App Key"/>
 
     </application>
 
