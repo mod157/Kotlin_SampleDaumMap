@@ -1,0 +1,2 @@
+rootProject.name='SampleDaumMap'
+include ':app'
